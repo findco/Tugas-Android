@@ -1,0 +1,3 @@
+Penguploadan File harus rapi dan harus didalam satu folder agar tidak berantakan
+Beri penjelasan yang jelas atas push atau penguploadn file
+Setelah melakukan upload atau push laporan kepada team
